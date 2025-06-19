@@ -71,7 +71,7 @@ To run this project, you can use the provided Jupyter Notebook (`ensemble_try.ip
 
 1.  **Download the dataset:** The dataset used for this project is `02.desharnais.csv` from the PROMISE repository. You can download it directly from [this link](http://promise.site.uottawa.ca/SERepository/datasets/desharnais.arff) (note: it will download as an `.arff` file which may need to be converted to `.csv`, or you can find a `.csv` version online). Place the file in the project's root directory.
 
-2.  Open `ensemble_try.ipynb` in Jupyter or Google Colab.
+2.  Open `software_ensemble.ipynb` in Jupyter or Google Colab.
 
 3.  Run the cells sequentially to load the data, train the models, and view the evaluation results.
 
